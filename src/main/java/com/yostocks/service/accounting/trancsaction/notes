@@ -1,0 +1,8 @@
+ROI = return(benefit)/investment(cost)
+
+inv1 = 500 dkk
+inv2 = 350 dkk
+sale = 950 dkk
+
+ROI = [950 - (inv1+inv2)] / (inv1+inv2) = (950 - 850)/ 850 = 100/850 = 10/85 = 0.118 = 11 %
+
